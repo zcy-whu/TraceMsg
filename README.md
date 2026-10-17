@@ -8,8 +8,7 @@ However, this objective may not properly reflect the practical usefulness of gen
 ## **Dataset**
 
 TraceMsg uses the curated Apache issue-commit traceability benchmark under the Realistic Distribution Setting (RDS). Our data can be accessed here: 
-
-
+https://drive.google.com/file/d/1zEp2wbi-wpQ70ZgumjCXXTxK6ToQp7ZU/view?usp=drive_link
 
 Expected repository paths:
 
